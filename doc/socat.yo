@@ -2905,7 +2905,7 @@ installs a simple TCP port forwarder. With
 link(TCP4-LISTEN)(ADDRESS_TCP4_LISTEN) it listens on local port "www" until a
 connection comes in, accepts it, then connects to the remote host
 (link(TCP4)(ADDRESS_TCP4_CONNECT)) and starts data transfer. It will not accept
-a econd connection. 
+a second connection. 
 
 label(EXAMPLE_OPTION_BIND_TCP4)
 label(EXAMPLE_OPTION_REUSEADDR)
